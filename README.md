@@ -5,14 +5,12 @@ A full-stack Team Task Manager web application where users can create projects, 
 🌐 Live Demo
 Frontend
 
-Add your frontend deployed URL here
+Live Frontend Demo
 
-https://your-frontend-url.vercel.app
 Backend
 
-Add your backend deployed URL here
+Live Backend API
 
-https://your-backend-url.up.railway.app
 📌 Features
 User Authentication (Login / Signup)
 Role-Based Access Control (Admin / Member)
@@ -97,12 +95,7 @@ JWT-based authentication is used for secure login and protected routes.
 
 🚀 Deployment
 Frontend deployed on Vercel
-Backend deployed on Railway
-🎥 Demo Video
-
-Add your demo video link here.
-
-https://your-demo-video-link
+Backend deployed on Vercel
 👨‍💻 Author
 Satyam Pandit
 
